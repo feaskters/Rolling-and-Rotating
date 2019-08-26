@@ -2,7 +2,7 @@
 unity2d mobile game.
 
 ![unity](https://img.shields.io/badge/unity-v2019.2.0b6-orange.svg)
-![platform](https://img.shields.io/badge/platform-Android%2FiPhone-green.svg)
+![platform](https://img.shields.io/badge/platform-iPhone-green.svg)
 <br>
 unity益智游戏<br>
 适用于移动平台
@@ -19,11 +19,11 @@ unity益智游戏<br>
 
 ## 游戏截图
 - 开始页面
-![开始页面](screenshot/1.png "开始页面") 
-- 游戏内容(白天)
-![关卡页面](screenshot/2.png "关卡页面") 
-- 游戏内容(夜晚)
-![关卡结算页面](screenshot/3.png "关卡结算页面") 
+ <img src="screenshot/1.png" width="240px"/>
+- 关卡页面
+ <img src="screenshot/2.png" width="240px"/>
+- 关卡结算页面
+ <img src="screenshot/3.png" width="240px"/>
 
 
 ## 所学技术
